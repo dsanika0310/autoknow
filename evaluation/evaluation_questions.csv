@@ -1,0 +1,7 @@
+id,question,expected_source,expected_page_or_section,answerable,category,notes
+Q01,"What is the main method for disabling a 2024+ Tesla Model 3 in an emergency?","D02","Page 8 - Disable direct hazards / safety regulations","yes","direct","Tests Tesla-specific retrieval of the first responder loop procedure"
+Q02,"After removing the Nissan ARIYA service plug, how long should responders wait for the high-voltage capacitor to discharge?","D03","ERG-26 / PDF page 26","yes","direct","Tests retrieval of a precise procedural value"
+Q03,"How long should responders wait after disabling the Hyundai IONIQ 9 high-voltage system before beginning emergency response work?","D04","Page 11 - Disable Direct Hazards / Safety Regulations","yes","direct","Tests Hyundai-specific high-voltage discharge guidance"
+Q04,"How far away should vehicle keys be moved according to the NHTSA high-voltage emergency guidance?","D01","Page 4 - Disable Vehicle","yes","direct","Tests retrieval of a specific safety distance from the general guidance"
+Q05,"What should responders do with a submerged Tesla Model 3 after removing it from the water?","D02","Page 29 - In case of submersion","yes","direct","Tests retrieval from a later section of the Tesla document"
+Q06,"What firefighting guidance does Nissan provide for an ARIYA high-voltage vehicle fire?","D03","ERG-38 / PDF page 37","yes","direct","Tests retrieval of Nissan fire-response guidance"
